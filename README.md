@@ -51,13 +51,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino%2FESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHaydoura3&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaydoura3&layout=compact&theme=transparent&hide_border=true" alt="Top languages" width="49%" />
-</p>
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
