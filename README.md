@@ -66,8 +66,6 @@
 | [Ticket Booking System](https://github.com/AliHaydoura3/ticket-booking-system) | Event ticket booking platform with admin dashboard and Azure deployment | .NET 9, React, JWT, Azure |
 | [Robotic Arm Controller](https://github.com/AliHaydoura3/robotic-arm) | Real-time WebSocket control of a 6-motor arm — browser to ESP32 | React, Node.js, WebSocket, ESP32 |
 | [Device Inventory](https://github.com/AliHaydoura3/device-inventory) | Inventory CRUD app over SQL Server stored procedures | ASP.NET Core, SQL Server, AngularJS |
-| [Expense Tracker API](https://github.com/AliHaydoura3/expense-tracker-api) | Personal expense tracking REST API with JWT auth | .NET 9, PostgreSQL, JWT |
-| [SafeVault API](https://github.com/AliHaydoura3/safe-vault-api) | Secure-coding showcase: Identity, JWT, and input sanitization | ASP.NET Core, Identity, JWT |
 
 ## 📫 Let's Connect
 
